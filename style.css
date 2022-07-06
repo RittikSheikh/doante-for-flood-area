@@ -27,3 +27,53 @@ h2{
     padding: 10px 10px;
     border-radius: 5px;
  }
+ section{
+    margin-bottom: 150px;
+ }
+#donate-today{
+    padding: 0 100px;
+}
+
+ .donate-des{
+    text-align: center;
+    padding: 0 10%;
+ }
+ .pick-ammount{
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+    padding: 0 20px;
+ }
+ .pick-ammount div{
+    width: 20%;
+    background-color: rgba(128, 128, 128, 0.068);
+    margin-left: 10px;
+    border-radius: 5px;
+    color: gray;
+    font-size: 22px;
+ }
+ #money{
+    border: 2px solid tomato;
+    background-color: rgba(255, 99, 71, 0.103);
+    color: tomato;
+ }
+ .other-ammount{
+    text-align: center;
+    margin-top: 40px;
+ }
+ .ammount{
+    border: none;
+ }
+ .horizontal{
+    width: 50%;
+    margin-bottom: 20px;
+ }
+ .donate-btn{
+    text-decoration: none;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+    margin-right: 30px;
+ }
