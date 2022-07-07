@@ -14,10 +14,14 @@ h2{
     background-size: cover;
 }
 .header-des{
-    padding: 10% 20%;
+    padding: 15% 20%;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.082);
     color: rgba(255, 255, 255, 0.979);
+}
+.header-des p{
+    margin-bottom: 30px;
+    color: rgba(255, 255, 255, 0.87);
 }
 .donate-btn{
     text-decoration: none;
@@ -154,31 +158,42 @@ h2{
     border-bottom: 7px solid blue;
 }
 #my-updates{
-
+    text-align: center;
 }
 .updates-des{
-    text-align: center;
     padding: 0 20%;
     margin-bottom: 40px;
 }
 .mail{
-    background-color: rgba(209, 200, 200, 0.336);
+    background-color: rgb(217, 217, 217);
     border: none;
-    padding: 5px 5px 5px 5px;
+    padding: 10px 30px;
     border-radius: 5px 0 0 5px;
  }
  .form-div{
     background-color: rgb(255, 244, 214);
-    text-align: center;
     width: 40%;
     padding: 5% 10%;
     margin: 0 auto;
  }
 
 .subs{
-    background-color: tomato;
+    background-color: rgb(255, 89, 89);
+    color: white;
     border: none;
-    padding: 5px 5px 5px 0;
+    padding: 10px 30px;
     border-radius: 0 5px 5px 0;
     margin-left: -4px;
+ }
+ footer{
+    background-color: rgb(11, 13, 23);
+    color: white;
+    text-align: center;
+    padding: 2% 0;
+ }
+ .footer-color{
+    color: rgba(255, 68, 0, 0.89);
+ }
+ footer h2{
+    font-family: 'Tangerine', cursive;
  }
